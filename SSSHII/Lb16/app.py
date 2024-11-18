@@ -119,4 +119,4 @@ def generate_images_for_date(date_str):
 
     plt.show()
 
-generate_images_for_date("07.11.2024")
+generate_images_for_date("19.04.2003")
